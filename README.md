@@ -12,11 +12,11 @@ First of all, creating a password is very common in using different websies. Tha
 
 Generally, it looks like this:
 
-![alt text](assets/PG1.png)
+![alt text](Images/PG1.png)
 
 
 
-![alt text](assets/GP2.png)
+![alt text](Images/GP2.png)
 
 ### Credits
 N/A
