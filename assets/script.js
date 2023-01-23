@@ -119,7 +119,6 @@ let specialCharacters = [
 		}
  }
 
- console.log(getPasswordOptions());
  
  // This function picks random numbers, special, upper and lowercased characters 
  function getRandom(array) {
